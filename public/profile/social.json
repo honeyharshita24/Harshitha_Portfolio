@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/harshitha-sontika/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/honeyharshita24/"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:harshitha.vfd228@gmail.com"
+        }
+    ]
+}

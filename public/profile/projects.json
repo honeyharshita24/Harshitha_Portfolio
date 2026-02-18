@@ -1,0 +1,114 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio_output.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://harshitha-sontika.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+      
+       
+        {
+            "image" : "images/projects/Notesapp_output.png",
+            "title": "Pocket Notes App",
+            "bodyText": "- Developed a responsive web app for managing notes with timestamps.\n - Users can easily add, review, and organize notes by creation time.\n - Ensured seamless user experience across devices. ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/honeyharshita24/PocketNotes.git"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://unrivaled-gelato-fbfc6f.netlify.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ]
+        } ,
+    {
+        "image" : "images/projects/AI_Code_Review_Output.jpg",
+            "title": "AI Code Reviewer",
+            "bodyText": "- Built an AI-powered code review platform using OpenAI Codex to analyze and provide smart code suggestions\n- Integrated with React and FastAPI, achieving a 30% reduction in manual review time\n- Utilized PostgreSQL for storing review feedback and code history across sessions",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/honeyharshita24/Code_Review_System.git"
+                }
+            ],
+            "tags" : [
+                "OpenAI Codex",
+                "FastAPI",
+                "React",
+                "PostgreSQL"
+            ]
+        },
+        {
+        "image" : "images/projects/AI_Resume_Tailor.png",
+            "title": "AI-Powered LaTeX Resume Tailoring Engine",
+"bodyText": "- Developed a Retrieval-Augmented Generation (RAG) workflow using LLMs, ChromaDB, vector embeddings, semantic search, and prompt engineering to tailor resumes to job descriptions while preserving ATS-compatible LaTeX formatting\n- Implemented multi-model LLM orchestration with configurable output parameters to improve keyword alignment and relevance for applicant tracking systems\n- Built a FastAPI backend with a real-time LaTeX compilation pipeline and PDF generation, enabling automated and scalable resume customization",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/honeyharshita24/ai-resume-tailor-master.git"
+                }
+            ],
+            "tags" : [
+"RAG",
+"ChromaDB",
+"FastAPI"
+] 
+        },
+        {
+        "image" : "images/projects/AI_Code_Review_Output.jpg",
+            "title": "AI-Powered Customer Feedback Intelligence Platform",
+"bodyText": "- Built a RAG-based conversational analytics platform using LangChain with Chroma VectorDB, vector embeddings, and semantic search to enable natural-language querying of customer feedback\n- Developed FastAPI microservices with JWT authentication, rate limiting, and ML inference pipelines to support real-time and batch sentiment analysis\n- Implemented automated ingestion and processing pipelines using Redis queues, RQ workers, and PostgreSQL, reducing manual customer feedback analysis time by 50%",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/honeyharshita24/Feedback-Analysis-Agent.git"
+                }
+            ],
+            "tags" : [
+"LangChain",
+"ChromaDB",
+"FastAPI",
+"PostgreSQL"
+] 
+        },
+        {
+            "image" : "images/projects/AI_Assignment_Generator_Output.jpg",
+            "title": "AI_Assignment_Generator",
+            "bodyText": "- Developed an AI-powered tool for auto-generating academic assignments.\n - Streamlined content creation with a clean, responsive UI for all devices. ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/honeyharshita24/AI_Assignment_Generator.git"
+                }
+            ],
+            "tags" : [
+                "OpenAI Codex",
+                "React",
+                "Node.js",
+                "SQL"
+            ]
+        }   
+    ]
+}
