@@ -5,25 +5,22 @@
       "subtitle": "Mercor",
       "workType": "Contract",
       "workDescription": [
-  "Created LLM training and evaluation tasks from large open-source codebases using RAG-style multi-file retrieval with vector embeddings, semantic search, and VectorDB/Chroma, improving task accuracy by 25% across React, Python, Java, and Go.",
-"Improved model performance through RLHF-style iterations by delivering structured code-review feedback (root cause, expected fix, edge cases, performance), reducing system design hallucinations by 20%.",
-"Strengthened production readiness by validating secure and efficient implementations (prompt constraints, retrieval settings, integration correctness, time/space optimizations), improving security-compliant code generation by 30%."
+        "Built multi-tenant hiring workflow services with strict tenant isolation and RBAC, modeling application stages with immutable audit events and role hierarchies, reducing pipeline inconsistencies by 35%",
+        "Developed advanced role search with filters and server-side pagination; tuned PostgreSQL with composite indexes, query plan analysis, and Redis caching, cutting p95 latency by 45% and reducing DB load by 30%",
+        "Implemented contract and hourly timesheet workflows with idempotent REST APIs and retry-safe webhook ingestion from Insightful using deduplication keys and retries, reducing timesheet mismatches by 60%",
+        "Hardened BFF with request validation, idempotency keys, and circuit breakers; added distributed tracing, structured logs, and alerting for faster triage, reducing production issues by 25%"
 ],
-
-      "dateText": "Jan 2025 - Present"
+      "dateText": "September 2025 - Present"
     },
+    
     {
-      "title": "Software Engineer",
-      "subtitle": "GlobalGiving",
-      "workType": "Contract",
+      "title": "Software Engineer Intern",
+      "subtitle": "Beanbag AI",
+      "workType": "Intern",
       "workDescription": [
-  "Developed full-stack donor management platforms using React.js, Node.js, and PostgreSQL, enabling real-time tracking and improving donation processing efficiency by 35%.",
-  "Architected and deployed AWS-based REST APIs leveraging EC2 and S3, ensuring 99.9% uptime and secure, scalable data handling for global users.",
-  "Integrated JWT authentication and Swagger documentation, reducing onboarding time for new developers by 40%.",
-  "Enhanced frontend performance using lazy loading and caching, cutting page load times by 30% and increasing user engagement.",
-  "Automated build and deployment workflows using Jenkins, achieving faster, zero-downtime releases across multiple environments."
+        "Built backend services using Python FastAPI, implementing validated REST APIs with SQLAlchemy and Alembic migrations on MySQL RDS; integrated AWS SQS CloudWatch, reducing production issues by 25%",
+        "Developed campaign and operations workflows using React.js/TypeScript, building configuration screens, admin views, and dashboards; added React Query caching and debounced search, improving responsiveness by 30%"
 ],
-
       "dateText": "May 2024 - Aug 2024"
     },
     {
@@ -31,24 +28,23 @@
       "subtitle": "Crewscale",
       "workType": "Full Time",
       "workDescription": [
-  "Delivered microservice-based web applications using React.js, Java/Spring Boot, and PostgreSQL, reducing server load by 20% through optimized data handling.",
-"Deployed and managed containerized applications on AWS (ECS), achieving scalability improvements of 40% with minimal downtime.",
-"Strengthened system security by implementing OAuth 2.0 and JWT authentication, preventing unauthorized access across distributed modules.",
-"Designed and executed unit and integration tests using JUnit and Postman, increasing test coverage to 85% and reducing production bugs by 30%.",
-"Participated in Agile sprints, consistently delivering high-quality features ahead of deadlines and contributing to over 15 successful product releases."
- ],    
-
-"dateText": "June 2022 - June 2023" 
+        "Delivered microservice-based web applications using React.js, Java/Spring Boot, and PostgreSQL, reducing server load by 20% through optimized data handling.",
+        "Deployed and managed containerized applications on AWS (ECS), achieving scalability improvements of 40% with minimal downtime.",
+        "Strengthened system security by implementing OAuth 2.0 and JWT authentication, preventing unauthorized access across distributed modules.",
+        "Designed and executed unit and integration tests using JUnit and Postman, increasing test coverage to 85% and reducing production bugs by 30%.",
+        "Participated in Agile sprints, consistently delivering high-quality features ahead of deadlines and contributing to over 15 successful product releases."
+],
+      "dateText": "June 2022 - June 2023"
     },
     {
       "title": "Software Engineer",
       "subtitle": "Crewscale",
       "workType": "Intern",
       "workDescription": [
-  "Developed authentication and authorization microservices using JWT and OAuth 2.0, improving system security by 50%.",
-  "Deployed Dockerized microservices on AWS ECS, achieving 40% higher scalability under concurrent load.",
-  "Optimized CI/CD pipelines by automating workflows and standardizing environments, reducing build and deployment time by 25%."
-],
+        "Developed authentication and authorization microservices using JWT and OAuth 2.0, improving system security by 50%.",
+        "Deployed Dockerized microservices on AWS ECS, achieving 40% higher scalability under concurrent load.",
+        "Optimized CI/CD pipelines by automating workflows and standardizing environments, reducing build and deployment time by 25%."
+  ],
       "dateText": "Jan 2022 - May 2023"
     }
   ]
