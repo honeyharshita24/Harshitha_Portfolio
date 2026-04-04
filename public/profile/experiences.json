@@ -1,51 +1,41 @@
 {
   "experiences": [
+ 
     {
       "title": "Software Engineer",
-      "subtitle": "Mercor",
-      "workType": "Contract",
-      "workDescription": [
-        "Built multi-tenant hiring workflow services with strict tenant isolation and RBAC, modeling application stages with immutable audit events and role hierarchies, reducing pipeline inconsistencies by 35%",
-        "Developed advanced role search with filters and server-side pagination; tuned PostgreSQL with composite indexes, query plan analysis, and Redis caching, cutting p95 latency by 45% and reducing DB load by 30%",
-        "Implemented contract and hourly timesheet workflows with idempotent REST APIs and retry-safe webhook ingestion from Insightful using deduplication keys and retries, reducing timesheet mismatches by 60%",
-        "Hardened BFF with request validation, idempotency keys, and circuit breakers; added distributed tracing, structured logs, and alerting for faster triage, reducing production issues by 25%"
-],
-      "dateText": "September 2025 - Present"
-    },
-    
-    {
-      "title": "Software Engineer Intern",
       "subtitle": "Beanbag AI",
-      "workType": "Intern",
+      "workType": "Full Time",
       "workDescription": [
-        "Built backend services using Python FastAPI, implementing validated REST APIs with SQLAlchemy and Alembic migrations on MySQL RDS; integrated AWS SQS CloudWatch, reducing production issues by 25%",
-        "Developed campaign and operations workflows using React.js/TypeScript, building configuration screens, admin views, and dashboards; added React Query caching and debounced search, improving responsiveness by 30%"
+  "Developed robust backend microservices with Spring Boot for the Agentic AI platform, enabling seamless LLM and API integrations",
+  "Created intuitive front-end components using React and TypeScript for the drag-and-drop workflow builder, enhancing user design capabilities",
+  "Built secure RESTful APIs in Java to manage AI application lifecycle and workflow automation across diverse data sources",
+  "Designed and implemented scalable data models in PostgreSQL for storing complex AI application configurations and user definitions",
+  "Improved platform performance by optimizing React components and utilizing Next.js, delivering a fluid user experience for AI workflow creation",
+  "Implemented CI/CD pipelines using GitLab CI for automated testing and deployment of Java microservices, accelerating feature delivery",
+  "Integrated third-party LLM APIs and custom models into the Beanbag AI platform using Java, expanding AI agent capabilities significantly",
+  "Developed real-time data ingestion and processing pipelines with Kafka and Spring Cloud Stream for monitoring active AI workflows",
+  "Created a role-based access control system using Spring Security, ensuring secure access to AI applications and platform features",
+  "Deployed containerized Java applications using Docker and Kubernetes on AWS, improving the scalability and resilience of core services"
 ],
-      "dateText": "May 2024 - Aug 2024"
+      "dateText": "Apr 2024 - Present"
     },
     {
-      "title": "Software Engineer",
+      "title": "Full Stack Developer",
       "subtitle": "Crewscale",
       "workType": "Full Time",
       "workDescription": [
-        "Delivered microservice-based web applications using React.js, Java/Spring Boot, and PostgreSQL, reducing server load by 20% through optimized data handling.",
-        "Deployed and managed containerized applications on AWS (ECS), achieving scalability improvements of 40% with minimal downtime.",
-        "Strengthened system security by implementing OAuth 2.0 and JWT authentication, preventing unauthorized access across distributed modules.",
-        "Designed and executed unit and integration tests using JUnit and Postman, increasing test coverage to 85% and reducing production bugs by 30%.",
-        "Participated in Agile sprints, consistently delivering high-quality features ahead of deadlines and contributing to over 15 successful product releases."
+  "Built full stack product features for Crewscale's platform using React and Java Spring Boot, integrating UIs with optimized REST APIs",
+  "Designed MongoDB and PostgreSQL schemas and deployed Dockerized microservices on AWS ECS using CI/CD for improved scalability and resource usage",
+  "Implemented Spring Security with JWT and OAuth 2.0, enforcing token validation and refresh logic to enhance platform security",
+  "Developed real-time communication features for candidate-client interactions using WebSockets and Spring Boot, enhancing user engagement",
+  "Created responsive UI components with React and CSS frameworks, improving the candidate profile viewing experience across devices",
+  "Improved backend service performance by optimizing database queries and implementing caching with Redis for faster data retrieval",
+  "Designed and built secure RESTful APIs in Java Spring Boot to support client dashboards and talent matching algorithms on the platform",
+  "Developed automated testing suites using JUnit and Mockito for backend microservices, ensuring high code quality and reliability",
+  "Configured CI/CD pipelines with GitHub Actions to automate deployments of Java applications and React frontend to AWS",
+  "Implemented data integration solutions using Kafka for asynchronous processing of talent assessment results, ensuring data consistency"
 ],
-      "dateText": "June 2022 - June 2023"
-    },
-    {
-      "title": "Software Engineer",
-      "subtitle": "Crewscale",
-      "workType": "Intern",
-      "workDescription": [
-        "Developed authentication and authorization microservices using JWT and OAuth 2.0, improving system security by 50%.",
-        "Deployed Dockerized microservices on AWS ECS, achieving 40% higher scalability under concurrent load.",
-        "Optimized CI/CD pipelines by automating workflows and standardizing environments, reducing build and deployment time by 25%."
-  ],
-      "dateText": "Jan 2022 - May 2023"
+      "dateText": "Nov 2021 - June 2023"
     }
   ]
 }
